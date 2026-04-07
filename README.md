@@ -15,6 +15,15 @@ Interactive wiring diagram visualization tool for streaming and recording setups
 - **Highlight Mode** - Toggle all connections active to visualize the full signal flow
 - **Auto Layout** - Automatic positioning and grouping based on subgraph definitions
 
+## Project Preview
+
+![Streaming Setup Screenshot](./Screenshot%202026-04-07%20214823.jpg)
+
+<video width="600" controls>
+  <source src="./2026-04-07%2022-04-47.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Supported Connection Types
 
 | Type | Color | Description |
